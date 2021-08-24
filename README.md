@@ -1,4 +1,4 @@
-# EasyCurrency Angular Inputmask
+# EasyCurrency Angular Input Mask
 
 EasyCurrency is an independend Angular input mask for filtering the input in any input field. The directive does not use the ControlValueAccessor class, so it can be used on custom input field (e.g. the matInput from angular-material). 
 
