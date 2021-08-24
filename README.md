@@ -2,7 +2,6 @@
 
 ![Version](https://img.shields.io/npm/v/easy-currency) ![Downloads](https://img.shields.io/npm/dt/easy-currency.svg) ![BundleSize](https://img.shields.io/bundlephobia/min/easy-currency)
 
----
 
 EasyCurrency is an independend Angular input mask for filtering the input in any input field. The directive does not use the ControlValueAccessor class, so it can be used on custom input field (e.g. the `matInput` from angular-material). 
 
