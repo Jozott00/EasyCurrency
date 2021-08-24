@@ -1,8 +1,6 @@
 # EasyCurrency Angular Input Mask
 
-<img src="https://img.shields.io/npm/v/easy-currency">
-<img src="https://img.shields.io/npm/dt/easy-currency.svg">
-<img src="https://img.shields.io/bundlephobia/min/easy-currency">
+![Version](https://img.shields.io/npm/v/easy-currency) ![Downloads](https://img.shields.io/npm/dt/easy-currency.svg) ![BundleSize](https://img.shields.io/bundlephobia/min/easy-currency)
 
 ---
 
